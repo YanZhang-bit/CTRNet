@@ -28,6 +28,6 @@ The training and testing in CTRNet is reimplemented in PyTorch for the ease of u
 Clone this repo with git, **please remember to use --recursive**
 
 ```bash
-git clone --recursive https://github.com/Alvin-Zeng/PGCN
+git clone --recursive https://github.com/YanZhang-bit/CTRNet
 ```
 ### Download Features
