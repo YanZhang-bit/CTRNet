@@ -31,3 +31,4 @@ Clone this repo with git, **please remember to use --recursive**
 git clone --recursive https://github.com/YanZhang-bit/CTRNet
 ```
 ### Download Features
+THUMOS14 feature can be download [here](https://drive.google.com/drive/folders/10PGPMJ9JaTZ18uakPgl58nu7yuKo8M_k?usp=sharing)).
