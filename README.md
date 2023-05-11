@@ -57,7 +57,7 @@ python eval.py
 ```
 * To test our CTRNet on the ActivityNet-1.3 dataset
 
-  We provide the final model for ActivityNet-1.3 dataset [Baidu Cloud](https://pan.baidu.com/s/1pixDG7hDPBubbHeTD0L7UQ)) (password: 3qtc)
+  We provide the final model for ActivityNet-1.3 dataset [Baidu Cloud](https://pan.baidu.com/s/1pixDG7hDPBubbHeTD0L7UQ) (password: 3qtc)
  ```shell script
 cd ActivityNet
 python inference_content.py --mode inference --checkpoint best_model/final_model.pth
